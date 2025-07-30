@@ -1,10 +1,10 @@
 # Me
 
-- Professional Fullstack Java + Vue 3 Developer 
+## A Fullstack Java + Vue 3 Developer 
  <img width="300" height="159" alt="image" src="https://github.com/user-attachments/assets/856449ee-a2ed-4ac4-a5c1-474224e11bce" />
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/23d8a844-f14d-4f64-a8d7-caff004d434c" />
 
-### Interested in
+## Interested in
 - Dart
 - Golang
 - Kotlin
