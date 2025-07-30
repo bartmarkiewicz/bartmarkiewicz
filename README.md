@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- Professional Fullstack Java <img width="50" height="309" alt="image" src="https://github.com/user-attachments/assets/856449ee-a2ed-4ac4-a5c1-474224e11bce" />
+ + Vue 3 Developer 
+
+### Interested in
+- Dart
+- Golang
+- Kotlin
+- Mobile development
+- Local LLM inference
+
 <!--
 **bartmarkiewicz/bartmarkiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
